@@ -6,6 +6,8 @@
 </head>
 <body>
     <h1>About Us</h1> 
+      <h1>Contact Us</h1> 
+      <h1>Menu</h1> 
    
 </body>
 </html>
